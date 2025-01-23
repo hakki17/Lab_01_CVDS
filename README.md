@@ -48,13 +48,10 @@ Guarda los cambios en el historial del repositorio, solo lo hace con los cambios
 	Acepte la invitacion (Alejandro)
 
 ### 5.
-<<<<<<< HEAD
+
 	Listo estamos probando esto. Haciendo más cambios antes de probar el error.
 	competencia contra Alejandrix     
 
-=======
-
->>>>>>> d06faf190e06d1b75dc5f9ff61a1eeae93ab53bd
 
 ### 6.
 
