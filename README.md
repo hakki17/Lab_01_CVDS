@@ -75,7 +75,10 @@ Guarda los cambios en el historial del repositorio, solo lo hace con los cambios
 
 ### 8.
 
-	Error cambio 2, para utilizar IntelliJ
+	error
+	error
+	error
+	ERROR ERROR
 
 ### 9.
 
