@@ -111,7 +111,7 @@ Guarda los cambios en el historial del repositorio, solo lo hace con los cambios
 	principal u otra rama del repositorio.
 
 ### 3.
-####	
+####	Se crean la dos Ramas
 
 ### 4.
 ####	
