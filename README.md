@@ -32,30 +32,30 @@ Guarda los cambios en el historial del repositorio, solo lo hace con los cambios
 
 # RESPUESTAS:
 
-# == PARTE 2 ==
-# 1.
+## == PARTE 2 ==
+### 1.
 	Owner:		Maria Paula
 	Collaborator:	Alejandro Prieto
 
-# 2.
+### 2.
 	PAULA lo agrego siguiendo el paso a paso
 	
 
-# 3.
-	Ya me la compartio
+### 3.
+	Ya me la compartio (Paula)
 
-# 4.
-	Acepte la invitacion
+### 4.
+	Acepte la invitacion (Alejandro)
 
-# 5.
+### 5.
 	Listo estamos probando esto
 
-# 6.
+### 6.
 
-# 7.
+### 7.
  
-# 8.
+### 8.
 
-# 9.
+### 9.
 
-# == PARTE 3 ==
+### == PARTE 3 ==
