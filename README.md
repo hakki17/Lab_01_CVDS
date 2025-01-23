@@ -121,8 +121,10 @@ Guarda los cambios en el historial del repositorio, solo lo hace con los cambios
 
 ### 5.
 ####	Se configura para que se borren las ramas
+![](https://github.com/hakki17/Lab_01_CVDS/blob/main/eliminarRamas.png)
 
 ####	Se configura Rule Pull Request
+![](https://github.com/hakki17/Lab_01_CVDS/blob/main/aprovePullRequest.png)
 
 
 
