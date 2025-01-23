@@ -56,10 +56,23 @@ Guarda los cambios en el historial del repositorio, solo lo hace con los cambios
 ### 6.
 	Por lo visto en las 2 veces que lo intentamos, podemos observar que el owner, es a ella es a quien le aparece el <<<=== error >>>
 	
+	## prueba error 1 terminal
+	![](https://github.com/hakki17/Lab_01_CVDS/blob/main/errorConjunto.png)
+
+	## prueba error en README.md local
+	![](https://github.com/hakki17/Lab_01_CVDS/blob/main/errorConjuntoBlocNotas.png)
+
+	## prueba error 2 terminal
+	![](https://github.com/hakki17/Lab_01_CVDS/blob/main/errorConjunto2.png)
+
+	## prueba error en README.md local
+	![](https://github.com/hakki17/Lab_01_CVDS/blob/main/errorConjuntoBlocNotas2.png)
+ 	
 
 ### 7.
  
 	Lo que hicimos fue quedarnos con el cambio de ella. 
+
 
 ### 8.
 
