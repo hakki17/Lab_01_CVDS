@@ -35,26 +35,32 @@ Guarda los cambios en el historial del repositorio, solo lo hace con los cambios
 
 ## == PARTE 2 ==
 ### 1.
+####	Se escogen los roles para trabajar en equipo, una persona debe escoger ser "Owner" o Propietario del repositorio y la otra "Collaborator" o Colaborador en el repositorio.
 	Owner:		Maria Paula
 	Collaborator:	Alejandro Prieto
 
 ### 2.
+####	El owner agrega al colaborador con permisos de escritura en el repositorio que creó en la parte 1
 	PAULA lo agrego siguiendo el paso a paso
 	
 
 ### 3.
+####	El owner le comparte la url via Teams al colaborador
 	Ya me la compartio (Paula)
 
 ### 4.
+####	El colaborador acepta la invitación al repositorio
 	Acepte la invitacion (Alejandro)
 
 ### 5.
+####	Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
 
 	Listo estamos probando esto. Haciendo más cambios antes de probar el error.
 	competencia contra Alejandrix     
 
 
 ### 6.
+####	¿Que sucedió?
 	Por lo visto en las 2 veces que lo intentamos, podemos observar que el owner, es a ella es a quien le aparece el <<<=== error >>>
 	
 ##### 	Prueba error 1 terminal
@@ -71,10 +77,12 @@ Guarda los cambios en el historial del repositorio, solo lo hace con los cambios
  	
 
 ### 7.
+####	La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos <<< === y >>> (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente
  
 	Lo que hicimos fue quedarnos con el cambio de ella. 
 
 ### 8.
+####	Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
 
 	error
 	error
@@ -83,6 +91,7 @@ Guarda los cambios en el historial del repositorio, solo lo hace con los cambios
 	Error cambio 2, para utilizar IntelliJ como solucionador de problemas
 
 ### 9.
+####	Resuelvan el conflicto con IntelliJ si es posible
 ![](https://github.com/hakki17/Lab_01_CVDS/blob/main/dialogoIntelliJ.png)
 ![](https://github.com/hakki17/Lab_01_CVDS/blob/main/dialogoIntelliJ2.png)
 ![](https://github.com/hakki17/Lab_01_CVDS/blob/main/dialogoIntelliJ3Resuelto.png)
@@ -90,17 +99,23 @@ Guarda los cambios en el historial del repositorio, solo lo hace con los cambios
 
 ## == PARTE 3 ==
 ### 1.
+####	¿Hay una mejor forma de trabajar con git para no tener conflictos?
 	Cada persona debe estar trabajando en su rama propia para hacer modificaciones de la principal 
 	y usar herramientas que nos ayuden a fusionar nuestras ramas cuando sea necesario. 
 	(Importante, que nosotros hayamos resuelto los conflictos de cada rama antes de unir las ramas a 
 	la principal al igual que mantener las ramas actualizadas)
 
 ### 2.
+####	¿Qué es y como funciona el Pull Request?
 	Cuando un desarrollador solicita que los cambios hechos sean revisados para ser integrados con la rama
 	principal u otra rama del repositorio.
 
 ### 3.
+####	
 
 ### 4.
+####	
 
 ### 5.
+####	
+
