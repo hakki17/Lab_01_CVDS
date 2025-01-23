@@ -48,11 +48,7 @@ Guarda los cambios en el historial del repositorio, solo lo hace con los cambios
 	Acepte la invitacion (Alejandro)
 
 ### 5.
-	Listo estamos probando esto. Haciendo más cambios antes de probar el error.
-	prepara para competir contra Alejandrix     
-	ALGO X PARA PROBAR
-	COMPETENCIA 
-	(nuevos cambios)
+	Vamos a mirar cual gana
 
 ### 6.
 
