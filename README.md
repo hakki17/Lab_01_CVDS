@@ -82,7 +82,9 @@ Guarda los cambios en el historial del repositorio, solo lo hace con los cambios
 	Error cambio 2, para utilizar IntelliJ como solucionador de problemas
 
 ### 9.
-
+![](https://github.com/hakki17/Lab_01_CVDS/blob/main/dialogoIntelliJ.png)
+![](https://github.com/hakki17/Lab_01_CVDS/blob/main/dialogoIntelliJ2.png)
+![](https://github.com/hakki17/Lab_01_CVDS/blob/main/dialogoIntelliJ3Resuelto.png)
 
 
 ## == PARTE 3 ==
