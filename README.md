@@ -54,11 +54,18 @@ Guarda los cambios en el historial del repositorio, solo lo hace con los cambios
 
 
 ### 6.
+	Por lo visto en las 2 veces que lo intentamos, podemos observar que el owner, es al que le aparece el <<<=== error >>>
+	
 
 ### 7.
  
+	Lo que hicimos fue quedarnos con el cambio de ella. 
+
 ### 8.
 
+
 ### 9.
+
+
 
 ## == PARTE 3 ==
