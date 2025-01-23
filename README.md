@@ -34,6 +34,8 @@ Guarda los cambios en el historial del repositorio, solo lo hace con los cambios
 # RESPUESTAS:
 
 ## == PARTE 2 ==
+#### 1-->INTEGRANTES
+#### 2-->RESPUESTAS (paso a paso)
 ### 1.
 ####	Se escogen los roles para trabajar en equipo, una persona debe escoger ser "Owner" o Propietario del repositorio y la otra "Collaborator" o Colaborador en el repositorio.
 	Owner:		Maria Paula
@@ -118,5 +120,9 @@ Guarda los cambios en el historial del repositorio, solo lo hace con los cambios
 ####	PRUEBA 
 
 ### 5.
-####	
+####	Se configura para que se borren las ramas
+
+####	Se configura Rule Pull Request
+
+
 
