@@ -112,6 +112,7 @@ Guarda los cambios en el historial del repositorio, solo lo hace con los cambios
 
 ### 3.
 ####	Se crean la dos Ramas
+![](https://github.com/hakki17/Lab_01_CVDS/blob/BranchMS/ramas.png)
 
 ### 4.
 ####	
