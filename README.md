@@ -48,7 +48,7 @@ Guarda los cambios en el historial del repositorio, solo lo hace con los cambios
 	Acepte la invitacion (Alejandro)
 
 ### 5.
-	Listo estamos probando esto
+	Listo estamos probando esto. Haciendo más cambios antes de probar el error
 
 ### 6.
 
