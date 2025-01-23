@@ -74,6 +74,7 @@ Guarda los cambios en el historial del repositorio, solo lo hace con los cambios
 	Lo que hicimos fue quedarnos con el cambio de ella. 
 
 ### 8.
+
 	Error cambio 2, para utilizar IntelliJ
 
 ### 9.
