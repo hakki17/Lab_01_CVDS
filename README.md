@@ -23,3 +23,40 @@ María Paula Sánchez Macías
 Es el comando que se usa para preparar los cambios para ser confirmados cuando se modifique el archivo
 ### Commit
 Guarda los cambios en el historial del repositorio, solo lo hace con los cambios que hayan sido preparados anteriormente por add
+
+
+#PARTE DE PAREJAS
+#INTEGRANTES:
+#	- Alejandro Prieto Reyes
+#	- Maria Paula Macias Sanchez
+
+RESPUESTAS:
+
+==================== PARTE 2 ====================
+1.
+	Owner:		Maria Paula
+	Collaborator:	Alejandro Prieto
+
+2.
+	PAULA lo agrego siguiendo el paso a paso
+	
+
+3.
+	Ya me la compartio
+
+4.
+	Acepte la invitacion
+
+5.
+	Listo estamos probando esto
+
+6.
+
+7.
+
+8.
+
+9.
+
+==================== PARTE 3 ====================
+
