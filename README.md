@@ -72,7 +72,7 @@ Guarda los cambios en el historial del repositorio, solo lo hace con los cambios
 ##### 	Prueba error 2 terminal
 ![img3](https://github.com/hakki17/Lab_01_CVDS/blob/main/errorConjunto2.png)
 
-## prueba error en README.md local
+##### 	Prueba error en README.md local
 ![img4](https://github.com/hakki17/Lab_01_CVDS/blob/main/errorConjuntoBlocNotas2.png)
  	
 
