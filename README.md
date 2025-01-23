@@ -21,6 +21,7 @@ María Paula Sánchez Macías
 ## significado comandos GIT
 ### Add
 Es el comando que se usa para preparar los cambios para ser confirmados cuando se modifique el archivo
+
 ### Commit
 Guarda los cambios en el historial del repositorio, solo lo hace con los cambios que hayan sido preparados anteriormente por add
 
@@ -56,13 +57,13 @@ Guarda los cambios en el historial del repositorio, solo lo hace con los cambios
 ### 6.
 	Por lo visto en las 2 veces que lo intentamos, podemos observar que el owner, es a ella es a quien le aparece el <<<=== error >>>
 	
-## prueba error 1 terminal
+##### 	Prueba error 1 terminal
 ![img1](https://github.com/hakki17/Lab_01_CVDS/blob/main/errorConjunto.png)
 
-## prueba error en README.md local
+##### 	Prueba error en README.md local
 ![img2](https://github.com/hakki17/Lab_01_CVDS/blob/main/errorConjuntoBlocNotas.png)
 
-## prueba error 2 terminal
+##### 	Prueba error 2 terminal
 ![img3](https://github.com/hakki17/Lab_01_CVDS/blob/main/errorConjunto2.png)
 
 ## prueba error en README.md local
@@ -88,3 +89,18 @@ Guarda los cambios en el historial del repositorio, solo lo hace con los cambios
 
 
 ## == PARTE 3 ==
+### 1.
+	Cada persona debe estar trabajando en su rama propia para hacer modificaciones de la principal 
+	y usar herramientas que nos ayuden a fusionar nuestras ramas cuando sea necesario. 
+	(Importante, que nosotros hayamos resuelto los conflictos de cada rama antes de unir las ramas a 
+	la principal al igual que mantener las ramas actualizadas)
+
+### 2.
+	Cuando un desarrollador solicita que los cambios hechos sean revisados para ser integrados con la rama
+	principal u otra rama del repositorio.
+
+### 3.
+
+### 4.
+
+### 5.
